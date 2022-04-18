@@ -47,7 +47,6 @@ def converting():
 
 
 def main():
-    print("hey there")
     converting();   
   
 if __name__=="__main__":
